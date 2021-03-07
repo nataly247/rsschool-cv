@@ -33,11 +33,11 @@ I beleive that passion and hard work are keys to success. And the best way to do
 
 *CMS*: **Wordpress**, Woordpress Themes Development, Elementor, Visual Composer, Contact Forms 7, Gutenberg; 
 
-*CSS Frameworks and Libraries*: **Bootstrap**, Foundation, Materialize, Animate.css;
+*CSS Frameworks and Libraries*: Bootstrap, Foundation, Materialize, Animate.css;
 
 *Design Skills*: **Web Design**, Graphic Design, Photoshop, Figma, AdobeXD;
 
-*Other programming languages*: Python, PHP, SQL, Solidity, Dart;
+*Other programming languages*: Python, PHP, SQL, Solidity;
 
 &nbsp;
 
