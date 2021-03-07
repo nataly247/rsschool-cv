@@ -20,7 +20,7 @@
 
 3. Summary: 
 
-I canвЂ™t imagine my life without discovering new things, new places and new people, and, of course, developing new skills. 
+I can't imagine my life without discovering new things, new places and new people, and, of course, developing new skills. 
 I beleive that passion and hard work are keys to success. And the best way to do great work is to love what you do. Web design and development was my hobby for some time and IвЂ™d love it to become my job in near future. 
 
 &nbsp;  
