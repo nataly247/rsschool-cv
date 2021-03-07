@@ -62,6 +62,6 @@ English Language | Ivan Franko National University of Lviv | 2000 - 2005
 
 - English - Upper Intermediate
 - Polish - Basic 
-- Russian - Advansed
+- Russian - Advanced
 - Ukrainian - Native
 
