@@ -44,3 +44,24 @@ I beleive that passion and hard work are keys to success. And the best way to do
 5. Experience: In my spare time I like to build small side projects to test new technologies.
  
 &nbsp;
+
+6. Education: 
+ 
+ Course name | was held by | time
+------------ | ------------- | -------------
+**Front-end/JavaScript** | RSSchool | 2021, February - current time
+Blockchain (Solidity) Development | FireLabs | 2021, February - current time
+International SEO | Webpromoexperts | 2019, July - August 
+**Python Core** | SoftServe IT Academy Lviv | 2019, January - February
+**HTML5 App Development** | SoftServe IT Academy Lviv | 2018, June - July
+English Language | Ivan Franko National University of Lviv | 2000 - 2005
+
+&nbsp;
+
+7. Languages:
+
+- English - Upper Intermediate
+- Polish - Basic 
+- Russian - Advansed
+- Ukrainian - Native
+
