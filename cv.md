@@ -4,7 +4,7 @@
 
 2. Contact info: 
 
-[natalycoding@gmail.com](mailto:nataly247@gmail.com) 
+[nataly247@gmail.com](mailto:nataly247@gmail.com) 
 
 [linkedin](https://www.linkedin.com/in/nataly-panakhyd-11a01441/) 
 
