@@ -8,13 +8,11 @@
 
 [linkedin](https://www.linkedin.com/in/nataly-panakhyd-11a01441/) 
 
-[telegram](t.me/nataly247) 
-
 [dicord](https://discordapp.com/users/Nataly247#5140)
 
 [medium](https://medium.com/@nataly247) 
 
-[codepen](codepen.io/nataly247)
+[codepen](https://codepen.io/nataly247)
 
 &nbsp;
 
@@ -49,8 +47,7 @@ I beleive that passion and hard work are keys to success. And the best way to do
  
  Course name | was held by | time
 ------------ | ------------- | -------------
-**Front-end/JavaScript** | RSSchool | 2021, February - current time
-Blockchain (Solidity) Development | FireLabs | 2021, February - current time
+**Front-end/JavaScript** | RSSchool | 2022, September - current time
 International SEO | Webpromoexperts | 2019, July - August 
 **Python Core** | SoftServe IT Academy Lviv | 2019, January - February
 **HTML5 App Development** | SoftServe IT Academy Lviv | 2018, June - July
